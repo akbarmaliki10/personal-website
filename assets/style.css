@@ -176,3 +176,24 @@ article {
         max-width: 80px;
     }
 }
+
+
+@media only screen and (max-width: 500px) {
+    aside {
+        font-size: 8px;
+    }
+    .contact-item a{
+        font-size: 8px;
+    }
+
+    .contact-item {
+        margin: 15px;
+    }
+
+    aside img {
+        max-width: 60px;
+    }
+
+
+}
+
